@@ -1,0 +1,22 @@
+pir detection code
+
+
+int Bulb = 8; 
+int PIR = 3; 
+int val = 0; 
+
+void setup() {
+pinMode(Bulb, OUTPUT); 
+pinMode(PIR, INPUT); 
+}
+
+void loop(){
+val = digitalRead(PIR); 
+if (val == HIGH) { 
+digitalWrite(Bulb, HIGH); 
+delay(200);
+} else {
+digitalWrite(Bulb, LOW); 
+delay(200);
+}
+}

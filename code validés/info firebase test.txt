@@ -1,0 +1,3 @@
+https://fir-firebase-esp32-69805-default-rtdb.europe-west1.firebasedatabase.app/
+lien firebase
+AIzaSyAVdQ6q7CLIHl7XQ7DmfHvvuhKxl2LwbvU:cléAPI WEB

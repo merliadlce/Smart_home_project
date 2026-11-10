@@ -1,0 +1,2 @@
+avec telephone tecno :192.168.46.157
+avec rpool agent wifi:10.1.100.161

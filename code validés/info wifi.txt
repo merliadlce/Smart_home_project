@@ -1,0 +1,10 @@
+info wifi
+ SSID    :RPOOL_PET_AGEN_694465
+ Password :  w!aZ-AGE-f!-9z
+
+
+
+
+tecno
+SSID TECNO SPARK 10 5G
+Password 6a79jf929fx5k24
